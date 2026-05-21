@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "preserve",
+    "strict": true,
+    "types": ["valaxy/types"]
+  },
+  "include": [
+    "valaxy.config.ts",
+    "site.config.ts",
+    "pages/**/*.md",
+    "components/**/*.vue"
+  ]
+}

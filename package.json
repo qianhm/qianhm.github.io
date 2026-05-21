@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "dev": "valaxy",
+    "serve": "vite preview"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["@parcel/watcher", "esbuild", "vue-demi"]
+  },
+  "dependencies": {
+    "@iconify-json/ri": "^1.2.10",
+    "valaxy": "0.28.7",
+    "valaxy-addon-components": "^0.1.0",
+    "valaxy-addon-face": "^0.2.0",
+    "valaxy-addon-git-log": "^0.5.0",
+    "valaxy-addon-hitokoto": "^0.0.1",
+    "valaxy-addon-live2d": "^0.4.0",
+    "valaxy-addon-meting": "^0.2.0",
+    "valaxy-addon-vercount": "^0.0.7",
+    "valaxy-theme-yun": "0.28.7"
+  }
+}

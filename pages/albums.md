@@ -1,0 +1,5 @@
+---
+title: Albums
+---
+
+# Albums
