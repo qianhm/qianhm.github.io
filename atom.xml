@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qianhm.github.io/blog/</id>
+    <title>醋栗的博客</title>
+    <updated>2026-05-21T07:47:18.394Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>醋栗</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://qianhm.github.io/blog/"/>
+    <link rel="self" href="https://qianhm.github.io/blog/atom.xml"/>
+    <subtitle>欲将轻骑逐，大雪满弓刀。</subtitle>
+    <logo>https://qianhm.github.io/blog/blog/avatar.jpg</logo>
+    <icon>https://qianhm.github.io/blog/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2026 © 醋栗</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Valaxy]]></title>
+        <id>https://qianhm.github.io/blog/posts/hello-valaxy</id>
+        <link href="https://qianhm.github.io/blog/posts/hello-valaxy"/>
+        <updated>2026-05-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>Hello Valaxy</h1>
+<p>Welcome to my blog! This site is built with <a href="https://valaxy.site">Valaxy</a>.</p>
+<p>欲将</p>
+<br/><p>访问 <a href="https://qianhm.github.io/blog/posts/hello-valaxy" target="_blank">https://qianhm.github.io/blog/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>醋栗</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-05-21T00:00:00.000Z</published>
+    </entry>
+</feed>

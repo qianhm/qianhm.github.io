@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "醋栗的博客",
+    "home_page_url": "https://qianhm.github.io/blog/",
+    "feed_url": "https://qianhm.github.io/blog/feed.json",
+    "description": "欲将轻骑逐，大雪满弓刀。",
+    "icon": "https://qianhm.github.io/blog/blog/avatar.jpg",
+    "author": {
+        "name": "醋栗",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://qianhm.github.io/blog/posts/hello-valaxy",
+            "content_html": "<h1>Hello Valaxy</h1>\n<p>Welcome to my blog! This site is built with <a href=\"https://valaxy.site\">Valaxy</a>.</p>\n<p>欲将</p>\n<br/><p>访问 <a href=\"https://qianhm.github.io/blog/posts/hello-valaxy\" target=\"_blank\">https://qianhm.github.io/blog/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://qianhm.github.io/blog/posts/hello-valaxy",
+            "title": "Hello Valaxy",
+            "date_modified": "2026-05-21T00:00:00.000Z",
+            "date_published": "2026-05-21T00:00:00.000Z",
+            "author": {
+                "name": "醋栗",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
